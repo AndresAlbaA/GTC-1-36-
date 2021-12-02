@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Auto Parts Col v1.0</string>
+    <string name="txtNombProd">Nombre del producto: </string>
+    <string name="txtPrecProd">Precio del producto: </string>
+    <string name="txtProd1">Rines de Lujo 15"</string>
+    <string name="txtPrec1">COP $150.000 C/U</string>
+    <string name="txtProd2">Turbo Compresor</string>
+    <string name="txtPrec2">COP $1.500.000 C/U</string>
+    <string name="txtProd3">Asiento de Carrera</string>
+    <string name="txtPrec3">COP $ 500.000 C/U</string>
+    <string name="txtProd4">Frenos de Disco</string>
+    <string name="txtPrec4">COP $ 400.000 C/U</string>
+    <string name="txtcomprar">Agregar al carrito</string>
+    <string name="txtcantidad">Cantidad: </string>
+    <string name="BOGOTA"> BOGOTA</string>
+    <string name="Dir1"> Cr 7 No 34 -45</string>
+    <string name="Barrio1"> La soledad</string>
+    <string name="CALI"> CALI</string>
+    <string name="Dir2"> Cr 5 No 64 -45</string>
+    <string name="Barrio2"> Jumbo </string>
+    <string name="Barranquilla"> BARRANQUILLA </string>
+    <string name="Dir3"> CLL 56 B No 64 - 28 </string>
+    <string name="Barrio3"> EL SALAO </string>
+    <string name="Medellin"> MEDELLIN </string>
+    <string name="Dir4"> Cr 4 No 45 - 12</string>
+    <string name="Barrio4"> El ROSAL </string>
+    <string-array name ="lista">
+        <item> 1 </item>
+        <item> 2 </item>
+        <item> 3 </item>
+        <item> 4 </item>
+        <item> 5 </item>
+        <item> 6 </item>
+        <item> 7 </item>
+        <item> 8 </item>
+        <item> 9 </item>
+        <item> 10 </item>
+    </string-array>
+
+
+</resources>
